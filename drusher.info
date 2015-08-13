@@ -1,0 +1,4 @@
+name = Drusher
+description = Make drush command to control drupal site.
+package = drush
+core = 7.x
